@@ -210,5 +210,5 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 <<<
-## Credits / Author - Zero Analyst
+### Credits / Author - Zero Analyst
 
